@@ -1,0 +1,1 @@
+<span style="font-size:14px !important;">chat cleard! this chat will be cleared every 30 min !</span><br>
